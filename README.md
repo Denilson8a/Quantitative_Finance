@@ -1,2 +1,2 @@
-# Quantitative_Finance
-Done in moments of leisure.
+# Biblioteca
+En este espacio reuno algunos de los documentos que he realizado.
